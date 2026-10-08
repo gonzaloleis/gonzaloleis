@@ -1,6 +1,6 @@
 ## Hi, I'm Gonzalo 👋
 
-Telecommunication engineering student at Universidad Politécnica de Madrid (ETSIT), finishing my B.Eng. in Telematics and starting the M.Sc. in Telecommunication Engineering.
+Telecommunication engineering student at Universidad Politécnica de Madrid (ETSIT), starting the M.Sc. in Telecommunication Engineering.
 
 I'm interested in the infrastructure behind AI: cloud, Kubernetes, GPUs and the networks that connect them.
 
